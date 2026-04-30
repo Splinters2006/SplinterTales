@@ -1,0 +1,1 @@
+Hi everyone and welcome to my game that im working on, please be patient as i am new to gamedev, if you would like to offer your help, mainly for art or sound design feel free to dm me @Splinters06 on discord!
